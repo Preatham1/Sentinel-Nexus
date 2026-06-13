@@ -58,17 +58,24 @@ Upload enterprise documents and automatically generate:
 
 ## Microsoft IQ Integration
 
-Sentinel Nexus implements a Foundry IQ-inspired grounded retrieval layer.
+Sentinel Nexus implements a Foundry IQ-inspired grounded retrieval architecture.
 
-Components:
+Core Components:
 
-- Knowledge Retriever
-- Semantic Retriever
-- Context Builder
+* Knowledge Retriever
+* Semantic Retriever
+* Context Builder
 
-These modules retrieve enterprise documents, construct contextual knowledge, and provide grounded information before executive decision generation.
+These components retrieve enterprise knowledge, identify relevant context, and construct grounded information before multi-agent reasoning occurs.
 
-This reduces hallucinations and improves enterprise reasoning.
+This approach mirrors key Foundry IQ principles:
+
+* Grounded Retrieval
+* Context Construction
+* Evidence-Based Reasoning
+* Reduced Hallucination Risk
+
+By combining retrieval with specialized Operations, Risk, and Executive Agents, Sentinel Nexus delivers enterprise-focused decision intelligence supported by contextual knowledge rather than isolated prompts.
 
 ---
 
@@ -105,15 +112,25 @@ This reduces hallucinations and improves enterprise reasoning.
 
 ---
 
+## Environment Setup
+
+Create a `.env` file in the project root:
+
+```env
+GEMINI_API_KEY=PASTE_YOUR_GEMINI_API_KEY_HERE
+```
+
+Then install dependencies and run the application.
+
 ## Installation
 
+```bash
 pip install -r requirements.txt
 
 streamlit run dashboard.py
 
 streamlit run dashboard_upload.py
-
----
+```
 
 ## Future Enhancements
 
