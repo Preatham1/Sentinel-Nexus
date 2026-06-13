@@ -74,21 +74,7 @@ This reduces hallucinations and improves enterprise reasoning.
 
 ## Architecture
 
-User
-↓
-Knowledge Retriever
-↓
-Semantic Retriever
-↓
-Context Builder
-↓
-Operations Agent
-↓
-Risk Agent
-↓
-Executive Agent
-↓
-Executive Copilot
+![Sentinel Nexus Architecture](screenshots/sentinel_nexus_architecture.png)
 
 ---
 
