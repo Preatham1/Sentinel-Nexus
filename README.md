@@ -94,7 +94,17 @@ Executive Copilot
 
 ## Screenshots
 
-(Add screenshots here)
+### Command Center Dashboard
+![Command Center](screenshots/command_center_dashboard.png)
+
+### Executive Chat Copilot
+![Executive Copilot](screenshots/executive_chat_copilot.png)
+
+### Document Intelligence Analysis
+![Document Intelligence](screenshots/document_intelligence_analysis.png)
+
+### Risk Analytics Dashboard
+![Risk Analytics](screenshots/risk_analytics_dashboard.png)
 
 ---
 
