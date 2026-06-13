@@ -1,0 +1,9 @@
+Weekly Review Meeting
+
+Security vulnerabilities discovered.
+
+Deployment postponed.
+
+Testing success rate dropped below 60%.
+
+Customer acceptance testing delayed.

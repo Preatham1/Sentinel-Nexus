@@ -1,0 +1,3 @@
+Major outage detected.
+Customer transactions failing.
+System unavailable.

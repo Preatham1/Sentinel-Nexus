@@ -1,0 +1,9 @@
+Ticket #101
+
+Priority: High
+
+Issue:
+Critical dependency from Vendor Service is unavailable.
+
+Status:
+Open

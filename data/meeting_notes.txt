@@ -1,0 +1,7 @@
+Weekly Review Meeting
+
+Two engineers were reassigned to another project.
+
+Backend API work is behind schedule.
+
+Testing has not started.

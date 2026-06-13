@@ -1,0 +1,3 @@
+Security vulnerability discovered.
+Deployment postponed.
+Customer data access unavailable.

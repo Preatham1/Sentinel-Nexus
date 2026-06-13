@@ -1,0 +1,3 @@
+from portfolio_summary_agent import generate_portfolio_summary
+
+generate_portfolio_summary()

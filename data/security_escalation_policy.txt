@@ -1,0 +1,12 @@
+SECURITY ESCALATION POLICY
+
+Critical events must be reported immediately.
+
+Escalation Levels:
+
+LOW
+MEDIUM
+HIGH
+CRITICAL
+
+CRITICAL incidents require executive review.

@@ -1,0 +1,10 @@
+BUSINESS CONTINUITY POLICY
+
+Critical outages require activation of continuity procedures.
+
+Priority:
+- Customer services
+- Revenue generating systems
+- Operational infrastructure
+
+Recovery objectives must be tracked continuously.
