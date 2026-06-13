@@ -127,9 +127,7 @@ Then install dependencies and run the application.
 ```bash
 pip install -r requirements.txt
 
-streamlit run dashboard.py
-
-streamlit run dashboard_upload.py
+streamlit run app.py
 ```
 
 ## Future Enhancements
