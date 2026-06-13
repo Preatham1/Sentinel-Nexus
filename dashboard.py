@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🛡️ Sentinel Nexus Command Center")
+st.title(" Sentinel Nexus Command Center")
 
 st.markdown(
     "Enterprise Intelligence Operating System"
@@ -105,7 +105,7 @@ st.bar_chart(
 )
 st.divider()
 
-st.subheader("🧠 Ask Sentinel Nexus")
+st.subheader(" Ask Sentinel Nexus")
 
 question = st.text_input(
     "Ask a question about your project portfolio"
